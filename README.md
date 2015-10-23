@@ -1,6 +1,6 @@
 # portfolio
 
-This project develop for learning Web-developing basics. In this project use CSS, Bootstarp and JS.
+This project develop for learning Web-developing basics. In this project is used CSS, Bootstarp and JS.
 
 Portfolio has two version pages:
 * Use only Bootstrap ( http://uchku.github.io/portfolio/ru/index.html )
